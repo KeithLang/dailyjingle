@@ -10,3 +10,6 @@ less
 accounts-base
 accounts-password
 aldeed:autoform
+bootstrap
+accounts-twitter
+accounts-ui
